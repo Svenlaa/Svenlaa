@@ -5,6 +5,5 @@ Hello, I am Sven and I'm a web developer. I prefer to work on the backend, but I
 - [GitHub](https://github.com/Svenlaa)
 - [GitLab](https://gitlab.com/Svenlaa)
 - [Mastodon](https://mas.to/@Svenlaa)
-- [Twitter](https://twitter.com/Svenlaa)
 - [LinkedIn](https://linkedin.com/in/svenlaa)
 - [Email](mailto:mail@svenlaa.com)
