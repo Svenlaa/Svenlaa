@@ -4,6 +4,6 @@ Hello, I am Sven and I'm a web developer. I prefer to work on the backend, but I
 
 - [GitLab](https://gitlab.com/Svenlaa)
 - [Mastodon](https://mas.to/@Svenlaa)
-- [Bluesky](https://bsky.app/profile/svenlaa.com)
+- [Bluesky](https://bsky.app/profile/svenlaa.eu)
 - [LinkedIn](https://linkedin.com/in/svenlaa)
 - [Email](mailto:mail@svenlaa.com)
