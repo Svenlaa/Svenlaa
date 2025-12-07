@@ -9,3 +9,7 @@ I'm Sven Lammertink, a web developer based in Overijssel, the Netherlands 🇳�
 - Typescript
 - Hono
 
+## Hobbies and interests
+I like watching running, learning 日本語 🇯🇵, coding, jigsaws, and reading books.
+
+I follow the push for European tech very closely, from AI and European Cloud to payment processing. Part of this overlaps with my intereset of decentralisation and self hosting.
