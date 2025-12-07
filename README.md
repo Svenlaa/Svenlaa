@@ -1,9 +1,12 @@
 # [Svenlaa](https://svenlaa.com)
 
-Hello, I am Sven and I'm a web developer. I prefer to work on the backend, but I can work on the frontend too. I live in Overijssel, the Netherlands.
+I'm a web developer. I build anything on the web you can imagine.
 
-- [GitLab](https://gitlab.com/Svenlaa)
-- [Mastodon](https://mas.to/@Svenlaa)
-- [Bluesky](https://bsky.app/profile/svenlaa.eu)
-- [LinkedIn](https://linkedin.com/in/svenlaa)
-- [Email](mailto:mail@svenlaa.com)
+Technologies
+- PHP
+- React
+- Javascript
+- Typescript
+- Hono
+
+You can find me on other places on the web too, like Bluesky or GitLab
